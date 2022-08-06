@@ -10,3 +10,20 @@ enable-debugging
 hide-infocard-suggestions
 compact-header
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+general-ads
+video-ads
+hdr-auto-brightness
+settings
+microg-support
+sponsorblock
+premium-heading
+return-youtube-dislike
+minimized-playback
+exclusive-audio-playback
+codecs-unlock
+music-video-ads
+music-microg-support
+background-play
+upgrade-button-remover
+hide-get-premium
+minimized-playback-music
